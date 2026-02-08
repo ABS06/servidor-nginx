@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Servidor Automatizado</title>
+</head>
+<body>
+    <h1>Servidor Automatizado con Docker y Nginx</h1>
+    <p>Funciona correctamente.</p>
+    <p>Alumno: Abigail</p>
+</body>
+</html>
