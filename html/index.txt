@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Servidor Automatizado</title>
+    
 </head>
 <body>
-    <h1>Servidor Automatizado con Docker y Nginx</h1>
+   <h1>Servidor Nginx Automatizado</h1>
+    <p>Actualizado por Abigail - 2026</p>
     <p>Funciona correctamente.</p>
     <p>Alumno: Abigail</p>
 </body>
